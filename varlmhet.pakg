@@ -1,0 +1,8 @@
+v 1.0.1
+d varlmhet — White test for heteroscedasticity in time-series VAR/VEC model
+d Author: Manh Hoang Ba
+d Version: 1.0.1 01 Aug 2025
+f varlmhet.ado
+f varlmhet.sthlp
+f veclmhet.ado
+f veclmhet.sthlp
